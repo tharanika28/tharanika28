@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharanika28" alt="tharanika28" /></a> </p>
 
-- 🔭 I’m currently working as an intern at **Gradtwin**
+- 🔭 I worked as an intern **Gradtwin & Valeo**
 
 - 📫 How to reach me **tharanikavijayalakshmi@gmail.com**
 
